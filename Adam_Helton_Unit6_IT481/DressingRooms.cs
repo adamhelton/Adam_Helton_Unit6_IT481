@@ -38,6 +38,20 @@ namespace Adam_Helton_Unit6_IT481
             Thread.Sleep(roomWaitTime * getNumerOfItems());
             stopwatch.Stop();
             runTimer += stopwatch.ElapsedTicks;
+
+            Console.WriteLine("Customer finished trying on items in room");
+            semaphore.Release();
         }
+
+        public long getWaitTime()
+        {
+            return waitTimer;
+        }
+
+        public long getRunTime()
+        {
+            return runTimer;
+        }
+        
     }
 }
