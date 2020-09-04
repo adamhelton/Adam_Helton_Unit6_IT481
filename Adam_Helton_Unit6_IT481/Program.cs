@@ -6,7 +6,7 @@ namespace Adam_Helton_Unit6_IT481
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

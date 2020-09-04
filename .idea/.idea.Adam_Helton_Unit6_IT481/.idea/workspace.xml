@@ -4,28 +4,41 @@
     <projectFile>Adam_Helton_Unit6_IT481/Adam_Helton_Unit6_IT481.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f08c81-ad62-4053-8750-c20c324863bb" name="Default Changelist" comment="" />
+    <list default="true" id="01f08c81-ad62-4053-8750-c20c324863bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Adam_Helton_Unit6_IT481/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Adam_Helton_Unit6_IT481/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Customer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Customer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Scenario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Scenario.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/obj/Debug/netcoreapp3.1/Adam_Helton_Unit6_IT481.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/obj/Debug/netcoreapp3.1/Adam_Helton_Unit6_IT481.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Customers.cs" />
-        <option value="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/DressingRooms.cs" />
         <option value="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Scenario.cs" />
+        <option value="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Program.cs" />
+        <option value="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/DressingRooms.cs" />
         <option value="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Customer.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1h3MZXIPuGkmU1q8G6kpig4pM2t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -57,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599235381784</updated>
-      <workItem from="1599235389071" duration="563000" />
+      <workItem from="1599235389071" duration="1592000" />
     </task>
     <servers />
   </component>
@@ -68,5 +81,31 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="758" y="430" width="404" height="207" key="Github.ShareDialog" timestamp="1599235950919">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state x="758" y="430" width="404" height="207" key="Github.ShareDialog/0.27.1920.1007@0.27.1920.1007" timestamp="1599235950919" />
+    <state x="667" y="218" width="576" height="632" key="Github.UntrackedFilesDialog" timestamp="1599235961054">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state x="667" y="218" width="576" height="632" key="Github.UntrackedFilesDialog/0.27.1920.1007@0.27.1920.1007" timestamp="1599235961054" />
+    <state width="1874" height="260" key="GridCell.Tab.0.bottom" timestamp="1599236575867">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.bottom/0.27.1920.1007@0.27.1920.1007" timestamp="1599236575867" />
+    <state width="1874" height="260" key="GridCell.Tab.0.center" timestamp="1599236575865">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.center/0.27.1920.1007@0.27.1920.1007" timestamp="1599236575865" />
+    <state width="1874" height="260" key="GridCell.Tab.0.left" timestamp="1599236575864">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.left/0.27.1920.1007@0.27.1920.1007" timestamp="1599236575864" />
+    <state width="1874" height="260" key="GridCell.Tab.0.right" timestamp="1599236575866">
+      <screen x="0" y="27" width="1920" height="1007" />
+    </state>
+    <state width="1874" height="260" key="GridCell.Tab.0.right/0.27.1920.1007@0.27.1920.1007" timestamp="1599236575866" />
   </component>
 </project>
