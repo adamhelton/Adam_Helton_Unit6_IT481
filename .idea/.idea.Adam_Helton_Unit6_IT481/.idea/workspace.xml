@@ -4,8 +4,7 @@
     <projectFile>Adam_Helton_Unit6_IT481/Adam_Helton_Unit6_IT481.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f08c81-ad62-4053-8750-c20c324863bb" name="Default Changelist" comment="Added return for getNumberOfItems">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Adam_Helton_Unit6_IT481/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Adam_Helton_Unit6_IT481/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="01f08c81-ad62-4053-8750-c20c324863bb" name="Default Changelist" comment="Added semaphores to DressingRooms.cs">
       <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/DressingRooms.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/DressingRooms.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599235381784</updated>
-      <workItem from="1599235389071" duration="2503000" />
+      <workItem from="1599235389071" duration="2989000" />
     </task>
     <task id="LOCAL-00001" summary="Added Customer and ClothingItems to Customer.cs">
       <created>1599237002977</created>
@@ -89,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599237275411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added semaphores to DressingRooms.cs">
+      <created>1599237905965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599237905965</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +107,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Added Customer and ClothingItems to Customer.cs" />
     <MESSAGE value="Added return for getNumberOfItems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added return for getNumberOfItems" />
+    <MESSAGE value="Added semaphores to DressingRooms.cs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added semaphores to DressingRooms.cs" />
   </component>
   <component name="WindowStateProjectService">
     <state x="758" y="430" width="404" height="207" key="Github.ShareDialog" timestamp="1599235950919">
@@ -128,9 +135,9 @@
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
     <state width="1874" height="260" key="GridCell.Tab.0.right/0.27.1920.1007@0.27.1920.1007" timestamp="1599236575866" />
-    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599237280400">
+    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599237914838">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1007@0.27.1920.1007" timestamp="1599237280400" />
+    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1007@0.27.1920.1007" timestamp="1599237914838" />
   </component>
 </project>

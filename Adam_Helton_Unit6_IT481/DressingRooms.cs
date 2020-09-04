@@ -23,5 +23,21 @@ namespace Adam_Helton_Unit6_IT481
             rooms = r;
             semaphore = new Semaphore(rooms, rooms);
         }
+
+        public async Task RequestRoom(Customer c)
+        {
+            Stopwatch stopwatch = new Stopwatch();
+            Console.WriteLine("Customer is Waiting");
+            stopwatch.Start();
+            semaphore.WaitOne();
+            stopwatch.Stop();
+            waitTimer += stopwatch.ElapsedTicks;
+
+            int roomWaitTime = GetRandomNumber(1, 3);
+            stopwatch.Start();
+            Thread.Sleep(roomWaitTime * getNumerOfItems());
+            stopwatch.Stop();
+            runTimer += stopwatch.ElapsedTicks;
+        }
     }
 }
