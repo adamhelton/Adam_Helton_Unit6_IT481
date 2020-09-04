@@ -24,6 +24,11 @@ namespace Adam_Helton_Unit6_IT481
             }
         }
 
+        public int getNumberOfItems()
+        {
+            return NumberOfItems;
+        }
+
         private static readonly Random getRandom = new Random();
 
         public static int GetRandomNumber(int min, int max)
