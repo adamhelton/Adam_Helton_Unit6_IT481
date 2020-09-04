@@ -4,10 +4,9 @@
     <projectFile>Adam_Helton_Unit6_IT481/Adam_Helton_Unit6_IT481.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01f08c81-ad62-4053-8750-c20c324863bb" name="Default Changelist" comment="added get wait and run time">
+    <list default="true" id="01f08c81-ad62-4053-8750-c20c324863bb" name="Default Changelist" comment="Add scenario for customers and number of rooms">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Adam_Helton_Unit6_IT481/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Adam_Helton_Unit6_IT481/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/DressingRooms.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/DressingRooms.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Customer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Customer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Scenario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Adam_Helton_Unit6_IT481/Scenario.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599235381784</updated>
-      <workItem from="1599235389071" duration="5230000" />
+      <workItem from="1599235389071" duration="6324000" />
     </task>
     <task id="LOCAL-00001" summary="Added Customer and ClothingItems to Customer.cs">
       <created>1599237002977</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599239070806</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add scenario for customers and number of rooms">
+      <created>1599240636284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599240636284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +133,8 @@
     <MESSAGE value="Added semaphores to DressingRooms.cs" />
     <MESSAGE value="Create Stopwatch" />
     <MESSAGE value="added get wait and run time" />
-    <option name="LAST_COMMIT_MESSAGE" value="added get wait and run time" />
+    <MESSAGE value="Add scenario for customers and number of rooms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add scenario for customers and number of rooms" />
   </component>
   <component name="WindowStateProjectService">
     <state x="758" y="430" width="404" height="207" key="Github.ShareDialog" timestamp="1599235950919">
@@ -154,9 +161,9 @@
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
     <state width="1874" height="260" key="GridCell.Tab.0.right/0.27.1920.1007@0.27.1920.1007" timestamp="1599236575866" />
-    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599239077766">
+    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1599240640135">
       <screen x="0" y="27" width="1920" height="1007" />
     </state>
-    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1007@0.27.1920.1007" timestamp="1599239077766" />
+    <state x="555" y="266" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1007@0.27.1920.1007" timestamp="1599240640135" />
   </component>
 </project>

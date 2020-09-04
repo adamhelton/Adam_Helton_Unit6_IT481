@@ -2,7 +2,7 @@ using System;
 
 namespace Adam_Helton_Unit6_IT481
 {
-    class Customer
+    public class Customer
     {
         private int NumberOfItems;
 
