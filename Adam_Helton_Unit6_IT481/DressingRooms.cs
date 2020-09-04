@@ -7,10 +7,10 @@ namespace Adam_Helton_Unit6_IT481
 {
     public class DressingRooms
     {
-        private int rooms;
-        private Semaphore semaphore;
-        private long waitTimer;
-        private long runTimer;
+         private int rooms;
+         private Semaphore semaphore;
+         private long waitTimer;
+         private long runTimer;
 
         public DressingRooms()
         {
@@ -35,7 +35,7 @@ namespace Adam_Helton_Unit6_IT481
 
             int roomWaitTime = GetRandomNumber(1, 3);
             stopwatch.Start();
-            Thread.Sleep(roomWaitTime * getNumerOfItems());
+            Thread.Sleep(roomWaitTime * c.getNumberOfItems());
             stopwatch.Stop();
             runTimer += stopwatch.ElapsedTicks;
 
@@ -52,6 +52,15 @@ namespace Adam_Helton_Unit6_IT481
         {
             return runTimer;
         }
-        
+
+        private static readonly Random getRandom = new Random();
+
+        public static int GetRandomNumber(int min, int max)
+        {
+            lock (getRandom)
+            {
+                return getRandom.Next(min, max);
+            }
+        }
     }
 }
